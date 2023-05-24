@@ -22,6 +22,8 @@ There is a total of 6 tools, one of them having 2 functions, for a total of 7 fu
 
 5 - Network Kill Switch: Disables a given network adapter.
 
+MACVendors.txt is a file listing companies related to certain MAC addresses. It comes with the Speed Scan program, but it doesn't seem to have a particular purpose. It's interesting, so I've added it to the repository.
+
 -
 
 Screenshots can be found at the SourceForge repository: https://sourceforge.net/projects/network-ip-tools/

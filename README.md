@@ -16,7 +16,7 @@ There is a total of 6 tools, one of them having 2 functions, for a total of 7 fu
 
 2 - Remote Port Scanner: This tool can scan ports within an user-defined range for a given IP address.
 
-3 - Speed Scan I & II: Both tools can do the same thing, although, weirdly, Speed Scan I seems to have more functions than II - I suppose the dev messed up the ordering, and the first should be the second, and vice-versa. They can scan a given IP range for connections, and, in both programs, there is a TCP/UDP sessions scanner too.
+3 - Speed Scan I & II: Both tools can do the same thing, although, weirdly, Speed Scan I seems to have more functions than II; I suppose the dev messed up the ordering, and the first should be the second, and vice-versa. They can scan a given IP range for connections, and, in both programs, there is a TCP/UDP sessions scanner too.
 
 4 - Port Scanner will scan a specified port range for a given IP address. It will simply tell you whether such ports are open or closed.
 
